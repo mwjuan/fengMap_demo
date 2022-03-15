@@ -25,7 +25,7 @@ export default class Map extends React.Component {
   }
 
   componentDidMount() {
-    let fmapID = "1471665039876009986";
+    let fmapID = "xxxxx";
     this.openMap(fmapID);
   }
 
